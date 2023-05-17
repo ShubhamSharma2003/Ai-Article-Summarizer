@@ -1,12 +1,14 @@
 
 # IntelliSummar
 
+
 The project is an innovative article summarizer that utilizes the OpenAI API, Redux Toolkit Query, and modern user interface design principles. With this tool, users can input article links and receive concise summaries, making it easier to grasp the key points of the content without reading the entire article.
 
 
 ## Demo
+Try it here: https://aisummarizerbyshubham.netlify.app/
 
-<img width="900" alt="image" src="https://github.com/ShubhamSharma2003/Ai-Article-Summarizer/assets/117969915/fc008e86-3c59-4441-9f0c-c1e372fe44bb">
+<img width="1222" alt="image" src="https://github.com/ShubhamSharma2003/Ai-Article-Summarizer/assets/117969915/09323c3c-25fb-4aa6-8dc6-f2a428302a03">
 
 
 ## Environment Variables
